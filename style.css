@@ -151,11 +151,6 @@ label {
     .submit {
         font-size: 23px;
     }
-    
-    .tete {
-        width: 460px;
-    }
-
 }
 
 @media screen and (min-width: 1536px) {
@@ -195,9 +190,5 @@ label {
 
     .submit {
         font-size: 23px;
-    }
-    
-    .tete {
-        width: 510px;
     }
 }
