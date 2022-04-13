@@ -151,6 +151,10 @@ label {
     .submit {
         font-size: 23px;
     }
+    
+    .tete {
+        width: 460px;
+    }
 
 }
 
@@ -191,5 +195,9 @@ label {
 
     .submit {
         font-size: 23px;
+    }
+    
+    .tete {
+        width: 510px;
     }
 }
